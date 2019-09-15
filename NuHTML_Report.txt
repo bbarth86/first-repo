@@ -1,0 +1,23 @@
+Document checking completed. No errors or warnings to show.
+
+Image report
+No images in the document.
+
+Source
+<!DOCTYPE html>↩
+<html lang="en">↩
+<head>↩
+    <meta charset="utf-8"/>↩
+    <title>Lesson 1 - Test File</title>↩
+</head>↩
+<body>↩
+</body>↩
+↩
+</html>
+
+Heading-level outline
+Structural outline
+[body element with no heading]
+Used the HTML parser.
+
+Total execution time 1 milliseconds.
